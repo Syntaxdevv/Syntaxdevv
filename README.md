@@ -6,8 +6,8 @@
 
 
 <div 
-align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=100&lines=Sheik+Acosta;Web+Developer;Figma+Designer;Frontend+Developer;Backend+Beginner" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=100&lines=Sheik+Acosta;UI%2FUX+Developer;Frontend+Developer;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@ align="center">
 
 ### 🚀 About Me
 
-I'm a **2nd Year BSIT Student** at **Pampanga State Agricultural University.** I already have 1 year of coding experience and I love doing projects like websites, Systems projects etc... and not just coding, I also love photography, videography, editing videos.
+I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I already have 1 year of coding experience and I love doing projects like websites, Systems projects etc... and not just coding, I also love photography, videography, editing videos.
 
 ---
 
