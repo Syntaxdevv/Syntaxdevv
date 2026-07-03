@@ -61,7 +61,8 @@ I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=80&lines=Thank+you+for+visiting+my+GitHub+Account" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=80&lines=Thank+you+for+visiting+Happy+Coding!!" 
+
        alt="Typing SVG" 
        style="filter: drop-shadow(2px 2px 2px #FF1493) drop-shadow(4px 4px 4px #DB7093) drop-shadow(6px 6px 6px #FF69B4); border-radius:10px;"/>
 </div>
