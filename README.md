@@ -50,20 +50,15 @@ I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-9AFF7C?style=for-the-badge&logo=dart&logoColor=1163CF)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Visual Toolkit**
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Others**
-![Trading](https://img.shields.io/badge/-Trading-4CAF50?style=for-the-badge&logo=tradingview&logoColor=white)
-![Photographer](https://img.shields.io/badge/-Photographer-FF6F61?style=for-the-badge&logo=unsplash&logoColor=white)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=80&lines=Thank+you+for+visiting+my+GitHub+Account" 
