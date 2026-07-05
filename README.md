@@ -19,7 +19,7 @@
 
 I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I already have 1 year of coding experience and I love doing projects like websites, Systems projects etc... and not just coding, I also love photography, videography, editing videos.
 
-- 🌐 My <a href="https://acostadev-ten.vercel.app/" target="_blank">Personal Website</a>
+- 🌐 My <a href="https://syntax-portfolio-bice.vercel.app/" target="_blank">Personal Website</a>
 - 📨 Contact me at <a href="mailto:sheikluckyacosta@gmail.com"> sheikluckyacosta2021@gmail.com </a>
 ---
 
