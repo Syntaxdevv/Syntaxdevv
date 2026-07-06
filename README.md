@@ -25,21 +25,29 @@ I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syntaxdevv&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=Syntaxdevv&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
----
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Syntaxdevv&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=000000&border_color=3a8296&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Syntaxdevv&theme=radical&background=000000&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=C8E1FF&dates=C8E1FF&border=3a8296"
+    height="170"
+  />
+</p>
 
 ---
 
 ### 🧩 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntaxdevv&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntaxdevv&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=000000&border_color=3a8296&cache_seconds=1800"
+    height="170"
+  />
+</p>
 
 ---
-
-
 ## 🛠️ SKILLS
 
 ### **Programming Languages**
