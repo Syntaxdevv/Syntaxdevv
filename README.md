@@ -26,15 +26,24 @@ I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Syntaxdevv&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Syntaxdevv&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Syntaxdevv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Syntaxdevv&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
-
-### 🧩 Most Used Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntaxdevv&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntaxdevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
+
+---
 ## 🛠️ SKILLS
 
 ### **Programming Languages**
