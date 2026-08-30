@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuoonnn&style=flat-square&color=22C55E" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=syntaxdevv&style=flat-square&color=22C55E" alt="Profile Views" />
 </div>
 
 
