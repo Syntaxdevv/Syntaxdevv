@@ -19,51 +19,35 @@
 
 I'm a **3rd Year BSIT Student** at **Pampanga State Agricultural University.** I already have 1 year of coding experience and I love doing projects like websites, Systems projects etc... and not just coding, I also love photography, videography, editing videos.
 
-- 🌐 My <a href="https://syntax-portfolio-bice.vercel.app/" target="_blank">Personal Website</a>
-- 📨 Contact me at <a href="mailto:sheikluckyacosta@gmail.com"> sheikluckyacosta2021@gmail.com </a>
----
 
-### 📊 GitHub Statistics
+## 🌐 Socials:
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Syntaxdevv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Syntaxdevv&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+- [LinkedIn](https://www.linkedin.com/in/sheik-lucky-d-acosta/)
+- [Email](mailto:sheikluckyacosta2021@gmail.com)
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,dart,java,js,php,python,html,css,jquery,apache,flutter,mysql,digitalocean,cloudflare,netlify,render,vercel,photoshop,canva,figma&perline=10" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntaxdevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
+# 📊 GitHub Stats
 
----
-## 🛠️ SKILLS
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-9AFF7C?style=for-the-badge&logo=dart&logoColor=1163CF)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Visual Toolkit**
-![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=Syntaxdevv&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="400"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Syntaxdevv&theme=dark&hide_border=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Syntaxdevv&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=80&lines=Thank+you+for+visiting+Happy+Coding!!" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=80&lines=Thank+you+for+visiting" 
 </div>
